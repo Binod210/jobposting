@@ -1,0 +1,6 @@
+module.exports={
+    EMPTY_FIELD:403,
+    SERVER_ERROR:500,
+    SUCCESS:200,
+    FORBIDDEN:403,
+}
